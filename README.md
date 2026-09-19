@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @portilloch
-- 👀 I’m interested in  RHCE
-- - 🌱 I’m currently learning Ansible 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I am Intereting in Azure, AWS, OCI.
+- C#, ASP.Net.
+- Containers.
+- AI 100%.
+- Kubernetes. 
 
 <!---
 portilloch/portilloch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
