@@ -18,12 +18,12 @@ I design and build secure, scalable cloud solutions, and I create practical tool
 - **AI:** Azure OpenAI, LLM-powered applications
 
 ## 🏅 Certifications
-- **Microsoft:** Azure Solutions Architect Expert (AZ-305),
-- **Azure Administrator Associate (AZ-104)
-- **AWS:** AWS Certified Cloud Practitioner (CLF-C02)
-- **Cisco:** CCNA
-- **Red Hat:** Red Hat Certified System Administrator (RHCSA)
-- **ISC2:** Certified in Cybersecurity (CC)
+- **Microsoft:** Azure Solutions Architect Expert (AZ-305).
+- **Microsoft**  Azure Administrator Associate (AZ-104).
+- **AWS:** AWS Certified Cloud Practitioner (CLF-C02).
+- **Cisco:** CCNA.
+- **Red Hat:** Red Hat Certified System Administrator (RHCSA).
+- **ISC2:** Certified in Cybersecurity (CC).
 
 ## 📫 Contact
 - LinkedIn: [linkedin.com/in/claudioportillo679](https://www.linkedin.com/in/claudioportillo679)
