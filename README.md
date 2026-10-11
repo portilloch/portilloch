@@ -22,8 +22,8 @@ I design and build secure, scalable cloud solutions, and I create practical tool
 - Email: claudio.portillo@examsimulatorpro.com
 
   ## 🏅 Certifications
-- Microsoft Certified: Azure Solutions Architect Expert (AZ-305), Azure Administrator (Az-104) 
-- AWS Certified: AWS Certified Cloud Practitioner (CLF-C02)
-- CISCO: CCNA
-- Red Hat:  Red Hat Certified System Administrator (RHCSA)
-- ISC2: CC (Certified in Cybersecurity)
+##Microsoft Certified: Azure Solutions Architect Expert (AZ-305), Azure Administrator (AZ-104) 
+##AWS Certified: AWS Certified Cloud Practitioner (CLF-C02)
+##CISCO:CCNA
+##Red Hat:  Red Hat Certified System Administrator (RHCSA)
+##ISC2: CC (Certified in Cybersecurity)
